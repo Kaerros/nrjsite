@@ -10,5 +10,5 @@
 	echo $this->Form->input("passwd");
 	echo $this->Form->submit();
 	echo $this->Form->end();
-// lol 
+// lol yftftf
 ?>
