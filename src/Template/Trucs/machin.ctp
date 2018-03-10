@@ -7,6 +7,7 @@
 			echo "<td>".$u->login."</td>";
 			echo "<td>".$u->passwd."</td>";
 			echo "</tr>";
+                        //totot
 		}
 	 ?>
  </table>
